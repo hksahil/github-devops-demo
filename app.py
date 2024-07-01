@@ -5,7 +5,7 @@ input_file = 'input_data.csv'
 data = pd.read_csv(input_file)
 
 # Display the first few rows of the data
-print("Original Data:")
+print("Original new Data:")
 print(data.head())
 
 # Step 2: Perform some basic data manipulations
